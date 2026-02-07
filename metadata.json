@@ -1,0 +1,8 @@
+{
+  "name": "Takam Tourism Nepal",
+  "description": "Discover the hidden gem of Takam. Identify peaks, rivers, and landmarks, monitor regional weather, and explore local culture in the Myagdi region.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
